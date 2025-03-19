@@ -143,7 +143,7 @@ elimu-backend/
 {
   "youtube_url": "https://youtu.be/dQw4w9WgXcQ",
   "mentor_email": "mentor@example.com",
-  "category": "Musique"
+  "category": "Flutter"
 }
 ```
 
@@ -169,11 +169,7 @@ elimu-backend/
 
 **Endpoint** : `DELETE /videos/{video_id}`
 
-## Licence
 
-Distribué sous la licence **MIT**. Voir le fichier `LICENSE` pour plus de détails.
-
----
 
 **Remarques** :
 
